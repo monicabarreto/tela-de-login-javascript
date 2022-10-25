@@ -1,2 +1,2 @@
 # tela-de-login-javascript
-tela responsiva de login em html, css e javascript
+Tela de login responsiva em html, css e javascript
